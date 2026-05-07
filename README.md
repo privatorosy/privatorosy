@@ -14,4 +14,4 @@ __Github__ [Privatorosy](https://github.com/privatorosy) |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Privatorosy Profile Stats](https://github-readme-stats.vercel.app/api?username=privatosory&show_icons=true&lang=FR)
+![Privatorosy Profile Stats](https://github-readme-stats.vercel.app/api?username=privatorosy&show_icons=true&lang=FR)
